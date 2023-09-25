@@ -1,10 +1,16 @@
-def tri(N,x):
-	x = o
-	for i in range(1,N):
-		print(f'{x}'*i)
-	for i in range(N,0,-1):
-		print(f'{x}'*i)
-
-N,o = input().split()
-
-tri(int(N),o)
+a, b = list(map(int,input().split()))
+def NOD (a, b):
+        if a==0 or b==0:
+                return(a+b)
+        if a>b:
+                return NOD(a-b, b)
+        else:
+                return NOD(a, b-a)
+d = NOD(a,b)
+for y in range (1,10000):
+	x = int((d-b*y)/a)
+	if x == int((d-b*y)/a):
+		break
+	else:
+		y+=1
+print(f'{x} {y} {d}')
