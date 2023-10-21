@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5baea63b-bc6b-4a9a-a9a5-44f88fa31b91" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/NOD.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/factorial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s2_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s3_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s3_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s3_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s3_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s4/first_lab.png" beforeDir="false" afterPath="$PROJECT_DIR$/s4/first_lab.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s4/s4_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/s4/s4_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x.py" beforeDir="false" afterPath="$PROJECT_DIR$/x.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2X50JzlW6V8fSiNwgqLJcTHIejh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/artemlubimov/Desktop/CS_SEPMP_2023",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5baea63b-bc6b-4a9a-a9a5-44f88fa31b91" name="Changes" comment="" />
+      <created>1697903566713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697903566713</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
