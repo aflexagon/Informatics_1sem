@@ -23,6 +23,9 @@ class Vector:
         elif isinstance(other, int) or isinstance(other, float):
                 return Vector(self.x*other, self.y*other, self.z*other)
 class Dot:
-    def __init__(self,m,Vector):
+    def __init__(self,m,V):
+        self.m = m
+        self.V = V
+
 
 

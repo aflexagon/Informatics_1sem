@@ -39,7 +39,7 @@ for i in range (0,3):
 
     delta_rsys = k*np.sqrt((delta_v/max(V1))**2+(delta_i/max(I1))**2) 
     
-    print(f'Систематическа погрешность   delta_r_sys{i} = {np.round(delta_rsys,6)}')
+    print(f'Систематическа погрешность delta_r_sys{i} = {np.round(delta_rsys,6)}')
 
     s_rpoln = np.sqrt(s_k**2+delta_rsys**2)
 

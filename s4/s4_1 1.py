@@ -37,8 +37,7 @@ for i in range (0,3):
 	ax1.scatter(x1, y1, marker='x')
 	
 	ax1.errorbar(y1, x1, yerr=0.2, xerr = 0.1, color = 'k', linestyle = 'None')
-plt.xlim(50, 350)
-plt.ylim(50, 800)
+#plt.ylim(50, 800)
 
 ax1.grid() 
 plt.xlabel('I,мА')

@@ -10,26 +10,9 @@ class Vector:
 			return Vector(self.x+other.x,self.y+other.y,self.z+other.z)
 		elif isinstance(other,int) or isinstance(other, float):
 			return Vector(self.x+other,self.y+other,self.z+other)
-	def __rsub__(self,other):
-                if isinstance(other,Vector):
-                        return Vector(self.x-other.x,self.y-other.y,self.z-other.z)
-                elif isinstance(other, int) or isinstance(other, float):
-                        return Vector(self.x-other, self.y-other, self.z-other)
-	def __repr__(self):
-		return f'x = {self.x} y = {self.y} z = {self.z}'
-	def __mul__(self,other):
-                if isinstance(other,Vector):
-                        return Vector(self.x*other.x,self.y*other.y,self.z*other.z)
-                elif isinstance(other, int) or isinstance(other, float):
-                        return Vector(self.x*other, self.y*other, self.z*other)
-v1 = Vector(1,2,3)
-print(isinstance(v1,Vector))
-print(v1.x-v1.y)
-v2 = Vector(2,3,4)
-v3 = 1 + v1
-v4 = 1 - v1
-R = v3 * v4
-print(v3)
-print(v4)
-print(R)
-
+A = list(map(int, input().split()))
+B = []
+for  i in range(1,i//3):
+	B.append(Vector(A[i],A[i+1],A[i+2]))
+for i in range(1,len(B)):
+	print(isinstance(B[i],Vector))
